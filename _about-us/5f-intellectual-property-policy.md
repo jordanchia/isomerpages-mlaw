@@ -26,7 +26,7 @@ MinLaw oversees various aspects of IP policy, including those relating to patent
 
 The implementation of IP policies also involves the [Intellectual Property Office of Singapore](https://www.ipos.gov.sg/){:target="_blank"} (IPOS), a statutory board under MinLaw. IPOS is the lead government agency that advises on IP laws, maintains the IP Registers, and engages businesses on their IP needs.
 
-This [infographic](/files/Singapore-Intellectual-Property-Regime-2018.pdf/){:target="_blank"} provides an overview of Singapore’s IP regime, and the services available to help businesses maximise their competitive edge using IP.
+This [infographic(PDF, 174KB)](/files/Singapore-Intellectual-Property-Regime-2018.pdf/){:target="_blank"} provides an overview of Singapore’s IP regime, and the services available to help businesses maximise their competitive edge using IP.
 
 **Developing Singapore as a Global IP Hub in Asia**
 
