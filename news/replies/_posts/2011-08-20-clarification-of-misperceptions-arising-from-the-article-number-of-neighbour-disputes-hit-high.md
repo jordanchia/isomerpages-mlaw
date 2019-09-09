@@ -9,3 +9,12 @@ collection_name: news
 Clarification of Misperceptions Arising from the Article, “Number of Neighbour Disputes Hit High” (8 August 2011)
 ---
 
+20 Aug 2011 Posted in Replies
+
+**Minister(Law)’s clarification as reported in the media:**
+
+<ul><u>TODAY</u> (17 Aug)</ul>
+<ul>AsiaOne (16 Aug)</ul>
+<ul>CNA Online (16 Aug)</ul>
+<ul>938 Live (16 Aug)</ul>
+<ul>Xin MSN (16 Aug)</ul>
