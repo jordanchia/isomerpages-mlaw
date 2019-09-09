@@ -54,7 +54,7 @@ IPOS has developed an IP Competency Framework (IPCF) in consultation with indust
 
 **Updating the IP Hub Master Plan to Support Singapore’s Future Economy**
 
-In February 2017, the Committee on the Future Economy (CFE) released its recommendations on economic strategies for the next decade. IPOS and MinLaw released an [Update to the IP Hub Master Plan](/files/Update-to-IP-Hub-Master-Plan.pdf/){:target="_blank"} to support the CFE’s recommendation to strengthen Singapore’s innovation ecosystem and help achieve better economic outcomes in the future economy.
+In February 2017, the Committee on the Future Economy (CFE) released its recommendations on economic strategies for the next decade. IPOS and MinLaw released an [Update to the IP Hub Master Plan(PDF, 1.9MB)](/files/Update-to-IP-Hub-Master-Plan.pdf/){:target="_blank"} to support the CFE’s recommendation to strengthen Singapore’s innovation ecosystem and help achieve better economic outcomes in the future economy.
 
 The Update builds upon the progress achieved and focuses on helping innovative enterprises harness IP for growth, particularly through the active commercialisation and monetisation of their IP.
 
