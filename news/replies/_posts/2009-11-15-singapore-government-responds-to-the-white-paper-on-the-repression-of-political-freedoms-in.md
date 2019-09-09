@@ -100,13 +100,75 @@ Singapore government responds to the "White Paper on the Repression of Political
 <u>The Internal Security Act</u>
 
 35. The Paper highlights the Internal Security Act ( ISA ) as “one of the most troubling departures from the rule of law in Singapore ”. The ISA was introduced by the British against the backdrop of the Communist insurgency, in the 1950s. That insurgency continued for decades. The Paper mentions Chia Thye Poh, who was a key member of the Communist Party Malaya (CPM) who advocated armed insurgency and violence. He was detained under the ISA . Thousands of people died in the armed insurrection and guerilla warfare that the CPM carried out with the support of Communist states. The CPM and satellite organisations also had standing directives to punish with death those who betray the CPM revolution.
+
+36. Currently, there are less than 20 persons in detention. The detainees are broadly a mix of Jihad believers, and members of organisations with Al Qaeda links. The powers of preventive detention are subject to important checks and balances provided in the Constitution and the ISA . For instance:
+
+<ol>
+ <li>The detainee has the right to make representations to an Advisory Board, which must be considered, and is free to
+  engage a lawyer of his choice for this purpose.</li>
+ <li>The Advisory Board is appointed by the President, and is headed by a Supreme Court judge. It has the powers of a court
+  of law to subpoena witnesses including investigators, and examine documents, including classified intelligence.</li>
+ <li>It is required to review the detainees’ detentions on a regular basis.</li>
+ <li>If the Advisory Board recommends the release of the detainee, the Government cannot detain him further unless the
+  President gives approval – as such the President has the final say, with constitutional veto powers.  The President is
+  directly elected.</li>
+ <li>Apart from the Advisory Board, members of a Board of Inspection, comprising Justices of the Peace and community
+  leaders, are empowered to unscheduled visits to the ISA detention facility. By law, the Inspection Board is required to
+  make an inspection at least once a month. Members are entitled to speak to the detainees and report their complaints and
+  concerns to the Government.</li>
+ <li>Doctors examine detainees regularly, although detainees may ask for a doctor at any time. Any injuries sustained by the
+  detainees must be reported.</li>
+ <li>Finally, detainees receive weekly visits by their families. This is an important component of their rehabilitation and
+  helps prepare them for reintegration into society after their release.</li>
+</ol>
+
+37. In detention, detainees undergo reformative training. Independent clerics discuss the theology with them. If they renounce their jihadist beliefs and pose no threat to society, they are released. The release can be on conditions.
  
- 
- 
- 
- 
- 
- 
+38. The challenge which terrorist activity places on traditional judicial trials is not a new one. The USA , UK , Israel and Australia , for example, have their own approaches to terrorism and preventive detention.
+
+<b>3. Freedom of expression</b>
+
+39. The freedom of speech and expression is constitutionally guaranteed in Singapore .
+
+<u>Law of Defamation</u>
+
+40. The law of defamation is not unique to Singapore and as in other jurisdictions that value the rule of law, the purpose of such a law is not to stifle free speech and expression, but to protect debate from untrue and scurrilous personal attacks.
+
+41. Personal reputation is no less valuable than personal property. We do not believe that public discourse should degenerate to a base level. If any person feels that he has been defamed, he may seek to vindicate his reputation by commencing an action in the Singapore courts. Senior Government leaders, including the Prime Minister and Minister Mentor have taken the stand to give evidence in trials and have subjected themselves to cross-examination. In each and every case, the accuser must prove his allegations. If the allegation is proven, the plaintiff will lose the case and pay legal costs. Otherwise, the accuser pays damages and legal costs. The decisions of the Singapore courts are matters of public record and can be analysed. The reality is that they have stood the test of public scrutiny.
+
+<u>Restrictions on Political Messages</u>
+
+42. The Paper accuses the Government of imposing a prohibition on the producing, distributing and exhibiting of political films under the Films Act, claiming that it is without legitimate purpose and constitutes an unjustified violation of the freedom of expression. The blanket accusation not only fails to recognise the lawful justifications behind some of the restrictions imposed, it is also inaccurate.   Party political films that are factual and objective are permitted. Political parties, their candidates and election agents as well as individuals are also permitted to use new media for Internet election advertising. As with many of their allegations, the Paper chooses to disregard facts which are not consistent with its thesis.
+
+43. There are 5,500 foreign newspapers and journals in circulation in Singapore . Many freely carry articles critical of Singapore .  Singapore ’s population is not only well-educated, it is internationally connected and highly wired. Household broadband penetration is at 115%.  Singapore ranks amongst the top three connected cities in the world. The Singapore population is able to judge for itself the truth.
+
+<u>Experiences of Other Opposition Politicians aside from Dr Chee</u>
+
+44. The Paper states that the government has engaged in a systematic campaign to co-opt Singapore ’s legal system as a tool of control and repression to prevent the opposition and the people of Singapore from speaking. There is no truth to the allegations the Paper makes about various opposition members. A detailed rebuttal of the misrepresentations is at Annex 2.
+
+45. Mr Chiam See Tong is a clear example of how even opposition politicians value their reputation.  When he first stood for election, two PAP ministers made defamatory remarks about Mr Chiam’s law firm and his abilities as a lawyer. Mr Chiam threatened to sue, and after taking legal advice, the two ministers paid damages. Mr Chiam and Mr Low Thia Khiang (the leader of the Workers’ Party) have between them served as MPs for 42 years in Parliament. Neither has ever been sued. They continue to campaign freely, speak freely, both in Parliament and outside it.
+
+46. It is pertinent to note that the Constitution of Singapore was amended to allow opposition politicians who have failed to win a seat at an election to hold seats in Parliament as “non-constituency” members.  Opposition non-constituency members have not been reticent, inside or outside Parliament, in criticising Government policies and holding the Government to account. If the intention of Government leaders were to remove the opposition from Parliament by utilising defamation laws, the Constitution would not have been amended to ensure precisely the opposite effect.
+
+<b>4. Singapore ’s Independent and Impartial Judiciary</b>
+
+47. There is no merit to the allegation that Singapore ’s judiciary is not independent and impartial. The Singapore Government exercises its authority through laws that are enforced by an independent judiciary in accordance with established procedures.  Singapore ’s Supreme Court Judges enjoy security of tenure until the age of 65 years, and their independence is guaranteed under the Constitution.
+
+48. Singapore ’s judiciary is highly regarded internationally for its independence and administration of justice.
+
+49. The Paper has also alleged that there is a violation of judicial independence and impartiality insofar as the administration of matters bearing directly on the exercise of its judicial function is within the power of the executive through the Attorney-General [emphasis added]. The Attorney-General’s Chambers is an organ of the State. It is independent of the executive, legislative and judicial branches of Government. It is headed by the Attorney-General, who is neither a Minister nor a parliamentarian nor a member of the governing party. The independence of the Attorney-General is constitutionally protected. As the Public Prosecutor, the Attorney-General’s duty is to uphold the Rule of Law and to safeguard the public interest.
+
+**Conclusion**
+
+50. Singapore does not see the need to respond to every allegation within the Report. The assertions based on Singapore ’s Constitution at Part IV of the Paper, for example, are quite wrong. A plain reading of the Constitution would expose the logical flaws in the Paper.
+
+51. Singapore has grown and prospered because of its adherence to the rule of law and its robust legal framework. In a world of competing interests and priorities, Singaporeans must choose for themselves the kind of government they want, and the appropriate balance to be struck between societal interests and the individual.  Singapore does not seek to prescribe or impose its values on others, but simply for an open dialogue on these issues untainted by misrepresentation. This response clarifies facts which the Paper chose to ignore.
+
+[Annex 1: Dr Chee's convictions for criminal offences and contempt of court](/files/linkclick38e4.pdf/)
+[Annex 2: Opposition politicians mentioned by Amsterdam & Peroff](/files/linkclickc457.pdf/)
+
+
+
 <p class="right-side-updated">
- Last Updated on 27 Nov 2012
+ Last Updated on 26 Nov 2012
 </p>
