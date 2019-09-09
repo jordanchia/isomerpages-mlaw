@@ -13,7 +13,7 @@ Ministry of Law’s response to Human Rights Watch’s January 2012 country repo
 
 1. We refer to Human Rights Watch’s (HRW) January 2012 country report for Singapore (Report) and the comments of its deputy director Phil Robertson, as quoted on Yahoo!News Singapore.
 
-2. The Report dismisses Singapore’s Submissions to the Human Rights Council at the Universal Periodic Review [http://www.mfa.gov.sg/upr/](http://www.mfa.gov.sg/upr/){:target=_blank"}, without dealing with the Submissions. Readers are encouraged to read the Submissions and judge for themselves.
+2. The Report dismisses Singapore’s Submissions to the Human Rights Council at the Universal Periodic Review (http://www.mfa.gov.sg/upr/)(http://www.mfa.gov.sg/upr/){:target=_blank"}, without dealing with the Submissions. Readers are encouraged to read the Submissions and judge for themselves.
 
 
 
