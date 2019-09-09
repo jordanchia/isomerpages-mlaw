@@ -13,7 +13,7 @@ Ministry of Law’s response to Human Rights Watch’s January 2012 country repo
 
 1. We refer to Human Rights Watch’s (HRW) January 2012 country report for Singapore (Report) and the comments of its deputy director Phil Robertson, as quoted on Yahoo!News Singapore.
 
-2. The Report dismisses Singapore’s Submissions to the Human Rights Council at the Universal Periodic Review [http://www.mfa.gov.sg/upr/](http://www.mfa.gov.sg/upr/){:target=_blank"}, without dealing with the Submissions. Readers are encouraged to read the Submissions and judge for themselves.
+2. The Report dismisses Singapore’s Submissions to the Human Rights Council at the Universal Periodic Review [http://www.mfa.gov.sg/upr/](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos){:target=_blank"}, without dealing with the Submissions. Readers are encouraged to read the Submissions and judge for themselves.
 
 3. HRW also made false assertions. For example, contrary to assertions in its news article[<sup>1</sup>](https://www.hrw.org/news/2012/01/23/singapore-stop-hiding-behind-old-excuses){:target=_blank"}, capital punishment is not prohibited by international law. A large number of countries, including many modern, developed countries (like the US) impose the punishment. In Singapore, capital punishment has contributed to low rates of crime and drug use; and is overwhelmingly supported by Singaporeans.
 
