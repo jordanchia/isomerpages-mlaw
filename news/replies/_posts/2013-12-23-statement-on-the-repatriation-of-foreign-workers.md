@@ -1,14 +1,20 @@
 ---
 layout: post
-title:  Ministry of Law's statements on the repatriation of foreign workers
-date:   2013-12-23
-permalink: /news/replies/minlaw-statements-repatriation-of-foreign-workers
+title: Ministry of Law's statements on the repatriation of foreign workers
+permalink: /news/replies/statement-on-the-repatriation-of-foreign-workers/
+breadcrumb: Ministry of Law's statements on the repatriation of foreign workers
+collection_name: news
 ---
 
-##### **21 December 2013**
+Ministry of Law's statements on the repatriation of foreign workers
+---
+
+27 Jan 2012 Posted in [Replies](/news/replies)
+
+<u>**21 December 2013**</u>
 
 
-### **Ministry of Law's statement on the repatriation of foreign workers**
+**Ministry of Law's statement on the repatriation of foreign workers**
 
 
 We refer to the letters from Mr Jolovan Wham and Ms Braema Mathi (19 and 20 Dec 2013).
@@ -56,9 +62,9 @@ Press Secretary to the Minister for Law
 
 ---
 
-##### **23 December 2013**
+<u>**23 December 2013**</u>
 
-### **Response to Maruah: Repatriation of Foreign Workers**
+**Response to Maruah: Repatriation of Foreign Workers**
 
 Ms Braema Mathi misrepresents the government’s position. We did not say that repatriated workers are not entitled to due process. Ms Mathi initially claimed that there was no due process because there was no judicial process. We explained that judicial process was inapplicable to repatriation but that the due process for repatriation under our law has been observed.
 
@@ -96,3 +102,7 @@ Ultimately that is a matter for Singaporeans to decide. Thus far, Singaporeans h
 
 Praveen Randhawa <br>
 Press Secretary to the Minister for Law
+
+<p class="right-side-updated">
+  Last Updated on 26 Dec 2013
+</p>
