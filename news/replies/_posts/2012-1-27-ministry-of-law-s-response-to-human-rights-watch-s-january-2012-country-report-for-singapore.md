@@ -23,8 +23,8 @@ Ministry of Law’s response to Human Rights Watch’s January 2012 country repo
 
 6. The Singapore government is committed to creating and defending an environment where Singaporeans are secure, where their well-being is ensured, and where everyone can realise his or her full potential. Every society strikes its own balance between the rights of the individual and the society.  National issues are openly debated in Parliament. Elections to Parliament are free and fair, and contested fiercely. Singapore’s stability, public healthcare, education and security have made it one of the most livable cities in the world: Singaporeans enjoy dignity, welfare and security – much more so than many cities and countries which HRW seems to be happier with.
 
-<sup>[1]</sup>[http://www.hrw.org/news/2012/01/23/singapore-stop-hiding-behind-old-excuses](http://www.hrw.org/news/2012/01/23/singapore-stop-hiding-behind-old-excuses)
-<sup>[2]</sup>[http://www.nytimes.com/2009/10/20/opinion/20bernstein.html](http://www.nytimes.com/2009/10/20/opinion/20bernstein.html)
+<sup>[1]</sup>[http://www.hrw.org/news/2012/01/23/singapore-stop-hiding-behind-old-excuses](http://www.hrw.org/news/2012/01/23/singapore-stop-hiding-behind-old-excuses){:target="_blank"}
+<sup>[2]</sup>[http://www.nytimes.com/2009/10/20/opinion/20bernstein.html](http://www.nytimes.com/2009/10/20/opinion/20bernstein.html){:target="_blank"}
 
 <p class="right-side-updated">
   Last Updated on 25 Nov 2012
