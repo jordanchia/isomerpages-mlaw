@@ -32,7 +32,7 @@ This [infographic(PDF, 174KB)](/files/Singapore-Intellectual-Property-Regime-201
 
 Singapore’s IP regime is recognised as one of the world’s best. Since 2014, Singapore has been ranked among the top five in the world by the World Economic Forum’s Global Competitiveness Index for the strength of our IP protection.
 
-In 2013, the Government released the [IP Hub Master Plan](/files/IP-HUB-MASTER-PLAN-REPORT-2-APR-2013.pdf/){:target="_blank"} to leverage Singapore’s key strengths and guide our development as a Global IP Hub in Asia. It is envisaged that Singapore will strengthen our position as a hub for (i.) IP transactions and management, (ii.) quality IP filings, and (iii.) IP dispute resolution.
+In 2013, the Government released the [IP Hub Master Plan(PDF, 1.6MB)](/files/IP-HUB-MASTER-PLAN-REPORT-2-APR-2013.pdf/){:target="_blank"} to leverage Singapore’s key strengths and guide our development as a Global IP Hub in Asia. It is envisaged that Singapore will strengthen our position as a hub for (i.) IP transactions and management, (ii.) quality IP filings, and (iii.) IP dispute resolution.
 
 *Quality Patent Search and Examination Services, a Gateway to the Region and Beyond*
 
