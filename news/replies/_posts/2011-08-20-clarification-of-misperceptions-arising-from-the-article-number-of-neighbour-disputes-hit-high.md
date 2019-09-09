@@ -45,6 +45,6 @@ Clarification of Misperceptions Arising from the Article, “Number of Neighbour
 
 **True:** The mediated settlement in one case <u>does not</u> set a precedent for other disputes over issues of a similar nature. Unlike a court case, where case precedents and judgements form the basis for future judgements, in mediation, since there is no judgement, and the outcome is decided and agreed mutually by the disputing parties and not by the mediator, two disputes of identical nature could end up with two different outcomes.  Every party brings to a mediation his or her own set of perspectives, beliefs and values, and what he or she may agree to as settlement, could be very different from what another party in a different dispute of a similar nature, may agree to.
 
-<p="right-side-updated>
+<p="right-side-updated">
 Last Updated on 17 Jan 2013
 </p>
