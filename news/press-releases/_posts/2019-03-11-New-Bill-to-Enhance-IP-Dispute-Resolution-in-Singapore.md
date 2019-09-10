@@ -65,6 +65,6 @@ collection_name: news
 <p class="address-centered">E-mail: <a href="mailto:MLAW_Consultation@mlaw.gov.sg">MLAW_Consultation@mlaw.gov.sg</a></p>
 
 
-[Annex A - Public Consultation on Draft Intellectual Property Dispute Resolution Bill (0.26MB)](/files/news/press-releases/2019/03/Annex A - Public Consultation on Draft Intellectual Property Dispute Resolution Bill.pdf)
+[Annex A - Public Consultation on Draft Intellectual Property Dispute Resolution Bill (PDF, 275KB)](/files/news/press-releases/2019/03/Annex A - Public Consultation on Draft Intellectual Property Dispute Resolution Bill.pdf)
 
 <p class="right-side-updated">Last updated on 11 Mar 2019</p>
