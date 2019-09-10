@@ -109,16 +109,16 @@ collection_name: news
 **MINISTRY OF LAW**  
 **28 FEBRUARY 2018**
 
-[Factsheet on the Recent History of Criminal Justice Reform (0.5MB)](/files/news/press-releases/2018/02/Factsheet on Recent History of Criminal Reform_updated.pdf)
+[Factsheet on the Recent History of Criminal Justice Reform (PDF, 520KB)](/files/news/press-releases/2018/02/Factsheet on Recent History of Criminal Reform_updated.pdf)
 
 
-[Factsheet on Key Amendments to the Criminal Procedure Code and Evidence Act (0.4MB)](/files/news/press-releases/2018/02/Factsheet on the key amendements to the Criminal Procedure Code and Evidence Act_updated.pdf)
+[Factsheet on Key Amendments to the Criminal Procedure Code and Evidence Act (PDF, 469KB)](/files/news/press-releases/2018/02/Factsheet on the key amendements to the Criminal Procedure Code and Evidence Act_updated.pdf)
 
 
-[Infographic on the Key Amendments to the Criminal Procedure Code and Evidence Act (0.09MB)](/files/news/press-releases/2018/02/Infographic on Key Amendments to the Criminal Procedure Code and Evidence Act.pdf)
+[Infographic on the Key Amendments to the Criminal Procedure Code and Evidence Act (PDF, 102KB)](/files/news/press-releases/2018/02/Infographic on Key Amendments to the Criminal Procedure Code and Evidence Act.pdf)
 
 
-[Responses to the Feedback Received from the Public Consultation (0.1MB)](/files/news/press-releases/2018/02/Response to Public Consultation Feedback.pdf)
+[Responses to the Feedback Received from the Public Consultation (PDF, 164KB)](/files/news/press-releases/2018/02/Response to Public Consultation Feedback.pdf)
 
 
 <p class="right-side-updated">Last updated on 05 Mar 2018</p>
