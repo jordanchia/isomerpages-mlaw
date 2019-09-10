@@ -214,7 +214,7 @@ Ministry of Law</td>
 
 
 
-[Info Sheet 1: What Singapore Offers in International Commercial Dispute Resolution (PDF,258KB)](/files/news/press-releases/2019/06/Infosheet1-WhatSingaporeOffersinInternationalCommercialDisputeResolution.pdf)  
+[Info Sheet 1: What Singapore Offers in International Commercial Dispute Resolution (PDF, 258KB)](/files/news/press-releases/2019/06/Infosheet1-WhatSingaporeOffersinInternationalCommercialDisputeResolution.pdf)  
 [Info Sheet 2: Maxwell Chambers and Maxwell Chambers Suites (PDF, 476KB)](/files/news/press-releases/2019/06/Infosheet2-MaxwellChambersandMaxwellChambersSuites.pdf) 
 
 <p class="right-side-updated">Last updated on 09 Jul 2019</p> 
