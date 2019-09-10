@@ -60,7 +60,7 @@ collection_name: news
 <li> <strong>Developing professionals with multi-disciplinary skillsets and business orientation</strong>, a familiarity with technology and specialist expertise in identified high growth areas and sector-specific knowledge.</li>
 </ol>
 
-A full list of the Working Group’s recommendations is available [here (1.4MB)](/files/news/press-releases/2017/04/CFE-Report of the Working Group on Legal and Accounting Services-Apr2017.pdf).
+A full list of the Working Group’s recommendations is available [here (PDF, 1.5MB)](/files/news/press-releases/2017/04/CFE-Report of the Working Group on Legal and Accounting Services-Apr2017.pdf).
 
 **Government’s Response**
 
