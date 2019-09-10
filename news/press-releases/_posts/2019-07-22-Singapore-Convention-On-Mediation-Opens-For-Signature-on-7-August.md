@@ -30,6 +30,6 @@ Please see attached information sheet and visit [https://www.singaporeconvention
 **MINISTRY OF LAW**  
 **22 JULY 2019**
 
-[Information Sheet (PDF, 1.01MB)](/files/news/press-releases/2019/07/SingaporeConventionProgramme.pdf) 
+[Information Sheet (PDF, 1.1MB)](/files/news/press-releases/2019/07/SingaporeConventionProgramme.pdf) 
 
 <p class="right-side-updated">Last updated on 24 Jul 2019 </p>
