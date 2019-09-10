@@ -44,7 +44,7 @@ collection_name: news
 
  
 {:start="8"}
-8. The technology solutions under Tech-celerate for Law have been evaluated and pre-approved by IMDA under the “SMEs Go Digital” programme, in consultation with MinLaw, LawSoc and Enterprise Singapore. Interested Singapore Law Practices can apply for funding support to use up to seven of these solutions (i.e. one from each type of solution) depending on their needs. Application will start on 2 May 2019 and end on 1 May 2020. Interested Singapore Law Practices can apply for the baseline solutions through the Business Grant Portal,and for the advanced solutions through the Law Society at <lpi@lawsoc.org.sg>.
+8. The technology solutions under Tech-celerate for Law have been evaluated and pre-approved by IMDA under the “SMEs Go Digital” programme, in consultation with MinLaw, LawSoc and Enterprise Singapore. Interested Singapore Law Practices can apply for funding support to use up to seven of these solutions (i.e. one from each type of solution) depending on their needs. Application will start on 2 May 2019 and end on 1 May 2020. Interested Singapore Law Practices can apply for the baseline solutions through the Business Grant Portal,and for the advanced solutions through the Law Society at [lpi@lawsoc.org.sg](lpi@lawsoc.org.sg).
 
  
 {:start="9"}
