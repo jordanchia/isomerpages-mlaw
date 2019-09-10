@@ -44,7 +44,7 @@ permalink: /news/press-releases/press-releases-New-China-Ready-Programme-to-Help
 
 10. A subsidiary of SPH, HCEG owns and operates Han Language Centre, which offers Chinese language tuition and enrichment lessons as well as cultural programmes for children. HCEG’s adult learning platform HCE provides courses for Chinese language skills and Chinese business culture acquirement for executives and business learners. 
 
-[Annex A (0.1MB)](/files/news/press-releases/2019/07/AnnexAforChinaReady30July.pdf)
+[Annex A (PDF,181KB)](/files/news/press-releases/2019/07/AnnexAforChinaReady30July.pdf)
 
 **MINISTRY OF LAW**    
 **30 JULY 2019**
