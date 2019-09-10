@@ -48,9 +48,9 @@ collection_name: news
 {:start="6"}
 6. Other changes proposed in the report include providing clarity on situations when copyright exceptions would not be restricted by contractual terms, setting an expiry date for the protection of unpublished works, and new exceptions for galleries, libraries, archives and museums. 
 
-[Annex A: Copyright Review Report (1.13MB)](/files/news/press-releases/2019/01/Annex A - Copyright Review Report 16 Jan 2019.pdf)  
-[Annex B: Public Consultation Paper on Proposed Changes to Copyright Regime in Singapore(August 2016) (0.8MB)](/files/news/press-releases/2019/01/PublicConsultationPaperOnProposedChangesToCopyrightRegimeInSingaporeAugust2016.pdf)  
-[Annex C: Public Consultation Paper on CMO Ecosystem in Singapore(May 2017) (0.5MB)](/files/news/press-releases/2019/01/Annex C - Public Consultation Paper on CMO Ecosystem in Singapore May 2017.pdf)
+[Annex A: Copyright Review Report (PDF, 1.2MB)](/files/news/press-releases/2019/01/Annex A - Copyright Review Report 16 Jan 2019.pdf)  
+[Annex B: Public Consultation Paper on Proposed Changes to Copyright Regime in Singapore(August 2016) (PDF, 891KB)](/files/news/press-releases/2019/01/PublicConsultationPaperOnProposedChangesToCopyrightRegimeInSingaporeAugust2016.pdf)  
+[Annex C: Public Consultation Paper on CMO Ecosystem in Singapore(May 2017) (PDF, 511KB))](/files/news/press-releases/2019/01/Annex C - Public Consultation Paper on CMO Ecosystem in Singapore May 2017.pdf)
 
 
 <p class="right-side-updated">Last updated on 16 Jan 2019</p>
