@@ -76,14 +76,14 @@ Please see Annex H – *Infographic on Four Key Things About the Bill*.
 
 *Annexes*  
 
-[Annex A: Consequences of Online Falsehoods (2.2MB)](/files/news/press-releases/2019/04/Annex A - Consequences of Online Falsehoods.pdf)  
-[Annex B: International Developments (0.7MB)](/files/news/press-releases/2019/04/Annex B - International Approaches.pdf)  
-[Annex C: Government’s Implementation of Select Committee’s Recommendations (0.15MB)](/files/news/press-releases/2019/04/Annex C - Govt implementation of SC recommendations.pdf)  
-[Annex D: Factsheet on Public Education Initiatives (0.4MB)](/files/news/press-releases/2019/04/Annex D - Media Factsheet - Public Education Efforts.pdf)  
-[Annex E: Infographic on Falsehood vs Opinion (0.1MB)](/files/news/press-releases/2019/04/Annex E - Falsehoods v Opinions.pdf)  
-[Annex F: Infographic on Corrections (0.1MB)](/files/news/press-releases/2019/04/Annex F - Corrections.pdf)  
-[Annex G: How Corrections and Criminal Sanctions Will Apply (0.09MB)](/files/news/press-releases/2019/04/Annex G - How Corrections and Criminal Sanctions Apply.pdf)  
-[Annex H: Four Key Things About the Bill (0.1MB)](/files/news/press-releases/2019/04/Annex H - Four Key Things.pdf)  
+[Annex A: Consequences of Online Falsehoods (PDF, 2.3MB)](/files/news/press-releases/2019/04/Annex A - Consequences of Online Falsehoods.pdf)  
+[Annex B: International Developments (PDF,787KB)](/files/news/press-releases/2019/04/Annex B - International Approaches.pdf)  
+[Annex C: Government’s Implementation of Select Committee’s Recommendations (PDF, 159KB)](/files/news/press-releases/2019/04/Annex C - Govt implementation of SC recommendations.pdf)  
+[Annex D: Factsheet on Public Education Initiatives (PDF, 417KB)](/files/news/press-releases/2019/04/Annex D - Media Factsheet - Public Education Efforts.pdf)  
+[Annex E: Infographic on Falsehood vs Opinion (PDF, 188KB)](/files/news/press-releases/2019/04/Annex E - Falsehoods v Opinions.pdf)  
+[Annex F: Infographic on Corrections (PDF, 137KB)](/files/news/press-releases/2019/04/Annex F - Corrections.pdf)  
+[Annex G: How Corrections and Criminal Sanctions Will Apply (PDF, 101KB)](/files/news/press-releases/2019/04/Annex G - How Corrections and Criminal Sanctions Apply.pdf)  
+[Annex H: Four Key Things About the Bill (PDF, 107KB)](/files/news/press-releases/2019/04/Annex H - Four Key Things.pdf)  
 
 <p class="right-side-updated">Last updated on 02 Apr 2019</p>
 
