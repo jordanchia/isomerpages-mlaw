@@ -7,7 +7,7 @@ collection_name: law-practice-entities-and-lawyers
 second_nav_title: Other Services
 ---
 
-Request a Certificate of Good Standing
+Request a Certificate of Good Standing sss
 ---
 
 Law practices and foreign lawyers currently or previously registered with the Legal Services Regulatory Authority (“LSRA”) (or the Attorney General’s Chambers’ Legal Profession Secretariat prior to 18 November 2015) may apply to the LSRA for a Certificate of Good Standing.
